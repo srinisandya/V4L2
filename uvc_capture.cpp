@@ -1,5 +1,5 @@
 /*** USB camera test application on Beagle board using v4l2 APIs
-  It will capture the frames and write into file
+  It will capture the frames and write into screen
  Author:Srinivas
  Date:4/5/2018 ***/
 
